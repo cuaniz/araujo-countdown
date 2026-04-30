@@ -2,6 +2,10 @@
 
 Live countdown to Ronald Araujo's FC Barcelona contract expiry on June 30, 2031.
 
+## Live Demo
+
+[View the page here](https://TU_USUARIO.github.io/araujo-countdown/)
+
 ## Features
 
 - Countdown timer (years, months, days, hours, minutes, seconds)
